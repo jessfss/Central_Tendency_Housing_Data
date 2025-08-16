@@ -44,3 +44,15 @@ This discrepancy suggests potential differences in data sources worth considerin
 The exercise suggests drawing rough sketches, but I chose to create histograms instead and compare mine to the provided ones.
 I used ggplot2 to create histograms of rent prices for Brooklyn, Manhattan, and Queens to better understand the data distribution and variability.
 
+## Rent Price Histograms by Borough
+
+### Queens  
+![Queens Rent Histogram](https://github.com/jessfss/Central_Tendency_Housing_Data/blob/main/queens_rent_histogram.png?raw=true)
+
+### Manhattan  
+![Manhattan Rent Histogram](https://github.com/jessfss/Central_Tendency_Housing_Data/blob/main/manhattan_rent_histogram.png?raw=true)
+
+### Brooklyn  
+![Brooklyn Rent Histogram](https://github.com/jessfss/Central_Tendency_Housing_Data/blob/main/brooklyn_rent_histogram.png?raw=true)
+
+
